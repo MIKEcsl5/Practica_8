@@ -24,7 +24,7 @@ public class Practica8 {
         System.out.println("objeto: "+objeto1);
         
         objeto1 = poligono1;
-        System.out.println("object como poligono: "+poligono1);
+        System.out.println("objecto como poligono: "+objeto1);
         
         /* Otras formas de instanciar
         Object objeto2 = new Poligono();
